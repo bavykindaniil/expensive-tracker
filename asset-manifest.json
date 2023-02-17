@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expensive-tracker/static/css/main.dd797720.css",
+    "main.js": "/expensive-tracker/static/js/main.e22c2c01.js",
+    "index.html": "/expensive-tracker/index.html",
+    "main.dd797720.css.map": "/expensive-tracker/static/css/main.dd797720.css.map",
+    "main.e22c2c01.js.map": "/expensive-tracker/static/js/main.e22c2c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd797720.css",
+    "static/js/main.e22c2c01.js"
+  ]
+}
